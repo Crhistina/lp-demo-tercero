@@ -3,3 +3,5 @@ sistema cibertec
 Crhistina Javier
 
 Sistema del colegio 122
+
+Este sistema permite la matricula de los alumnos
